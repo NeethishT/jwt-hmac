@@ -1,0 +1,17 @@
+{
+  "name": "jwt-hmac",
+  "version": "1.0.0",
+  "description": "A JWT-based HMAC module for secure message signing and verification",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "keywords": [
+    "\"JWT\""
+  ],
+  "author": "Neethish",
+  "license": "MIT",
+  "directories": {
+    "test": "test"
+  }
+}
